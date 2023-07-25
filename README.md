@@ -31,13 +31,9 @@ cd todolist-coding-ninjas
 ## Deployment
 To deploy this project, simply open the index.html file in your browser.
 
-## Demo
-
-Check out the live demo of the application at https://imsahadeb.github.io/todolist-coding-ninjas/ to see it in action.
-
 
 ## Authors
 
-- [@imsahadeb](https://github.com/imsahadeb)
+- [@Ritesh-shekhar](https://github.com/Ritesh-shekhar)
 
 
